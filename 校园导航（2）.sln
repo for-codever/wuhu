@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "校园导航（2）", "校园导航（2）.vcxproj", "{AD35B129-A249-4B91-93FF-32C48D50B2B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Debug|x64.ActiveCfg = Debug|x64
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Debug|x64.Build.0 = Debug|x64
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Debug|x86.Build.0 = Debug|Win32
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Release|x64.ActiveCfg = Release|x64
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Release|x64.Build.0 = Release|x64
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Release|x86.ActiveCfg = Release|Win32
+		{AD35B129-A249-4B91-93FF-32C48D50B2B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD091D7-8B36-4EA3-A5E0-B60C5A4F0859}
+	EndGlobalSection
+EndGlobal
